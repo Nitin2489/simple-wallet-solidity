@@ -17,7 +17,7 @@ Deployed on Sepolia test network
 
 🛠️ Tech Stack
 
-Solidity 0.8.20
+Solidity
 
 Remix IDE
 
@@ -29,9 +29,9 @@ Sepolia Testnet
 
 Network: Sepolia
 
-Contract Address: PASTE_YOUR_ADDRESS_HERE
+Contract Address: 0x0AD6a1D19de7978B62282E6d0E85d04542f58CdB
 
-Etherscan: PASTE_ETHERSCAN_LINK_HERE
+Etherscan: https://sepolia.etherscan.io/address/0xD37c410cC8B836afa243FD0C4514d69EB95A07f8
 
 🚀 Deployment Steps
 
